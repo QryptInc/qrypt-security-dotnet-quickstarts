@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <Platforms>x64</Platforms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Azure.Communication.Chat" Version="1.0.1" />
+    <PackageReference Include="Azure.Communication.Identity" Version="1.0.1" />
+    <PackageReference Include="QryptSecurity_post_quantum" Version="0.3.1" />
+  </ItemGroup>
+
+</Project>
