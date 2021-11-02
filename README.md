@@ -1,1 +1,0 @@
-# qrypt-security-dotnet-quickstarts
