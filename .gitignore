@@ -5,6 +5,7 @@
 
 # Qrypt - ignore database files.
 CacheManager*
+add-chat/qryptlib.db
 
 # User-specific files
 *.rsuser
